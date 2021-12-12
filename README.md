@@ -1,0 +1,2 @@
+# cameraready_locations
+cameraready_locations
