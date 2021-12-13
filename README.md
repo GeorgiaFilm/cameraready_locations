@@ -7,4 +7,4 @@ Not sure if is is suited for copying from HTTP endpoints. cURL is probably a mor
 
 [SCP Command to Transfer Files](https://github.com/marketplace/actions/scp-command-to-transfer-files)
 
-[Usage - GitHub Action for copying file via SSH.](https://github.com/appleboy/scp-action)
+[Usage - GitHub Action for copying file via SSH](https://github.com/appleboy/scp-action)
